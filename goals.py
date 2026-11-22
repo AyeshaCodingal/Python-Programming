@@ -1,0 +1,6 @@
+Name = input("Enter your Name")
+print("Name = ",Name)
+goal = input("Enter your goal")
+print("goal =",goal)
+target_month = input("Enter the month you want to reach it by")
+print("target_month =",target_month)
